@@ -1,4 +1,4 @@
-# eyemovement
+# EyeMovement
 Eye Movement Exercise
 Uploaded October 20, 2021
 
@@ -15,6 +15,6 @@ I do not own rights to the images or code in this program.
 
 Most of this program is coded and distributed according to MIT license.
 
-<img src="https://github.com/austindash/eyemovement/blob/main/Screen%20Shot%202021-10-20%20at%207.25.00%20PM.png" width='300'/>
+<img src="Screen Shot 2021-10-20 at 7.25.00 PM.png" width='300'/>
 
 
