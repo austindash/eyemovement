@@ -14,7 +14,7 @@ responds to clicks.
 I do not own rights to the images or code in this program.
 
 This program is coded and distributed according to MIT license.
-MIT License
+MIT License:
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 <img src="eyes.png" width='300'/>
